@@ -1,3 +1,3 @@
 # STM32
 ## CUBE(MX&IDE)
-    In this folder all files are main.c file.
+    In this folder all are main.c files.
