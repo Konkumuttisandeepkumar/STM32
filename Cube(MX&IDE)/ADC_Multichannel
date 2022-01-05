@@ -1,4 +1,4 @@
-/* ADC Multichannel using rank system in STM32 microcontroller cubeMX & cubeIDE 
+/* ADC Multichannel using rank system in STM32F401RBT6 microcontroller cubeMX & cubeIDE 
   --->Open cubeMx or cubeIDE and select the required microcontroller.
   --->select ADC channel pins.
   --->I have selected 2 channels i.e CHANNEL 0, CHANNEL 1.
