@@ -1,4 +1,4 @@
-/* >>How to WAP for PWM generation in STM32(cubemx&cubeIDE)
+/* >>How to WAP for PWM generation in STM32F401RBT6 using(cubemx&cubeIDE)
    ******************************************************
  1)First we have to calculate ARR(Auto loaded register) and pulse for required frequency(40KHZ) and duty cycle(50%)
 		
