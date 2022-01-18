@@ -18,7 +18,10 @@
             Duty cycle =   T(on)
                         ------------ X 100
                         T(on)+T(off)
-            
+			
+		Frequency(HZ) =        1
+			  	----------------
+            		  	Time peroid(Sec)
             Above steps should be calculated and that values are should be metioned in our cubeMX or cubeIDE program  */
 
 
