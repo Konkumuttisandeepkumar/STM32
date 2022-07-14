@@ -4,7 +4,7 @@
 		
 	--->>Internal clock(HSI) of microcontroller is 16MHZ 
 		
-		Timer clock =   MCU clock      16000000    
+		Timer clock =        MCU clock      16000000    
 			            ------------ =  -------- = 8MHZ
 			             prescalar+1       1+1
 			
