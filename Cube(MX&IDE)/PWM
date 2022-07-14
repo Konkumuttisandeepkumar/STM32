@@ -8,9 +8,9 @@
 			            ------------ =  -------- = 8MHZ
 			             prescalar+1       1+1
 			
-		ARR(Period value) = 8MHZ      8000000
+		ARR(Period value) = 8MHZ      8000000    8000000
 				              ------- = ---------- = 200
-				                40KHZ      400000
+				                40KHZ      40000
 
 		Pulse = 200 --> 100% duty cycle
     			  ?  <<-- 50% duty cycle	  =100    
