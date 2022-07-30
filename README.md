@@ -10,3 +10,11 @@ LQFP package
 </pre>
 
 ## NUCLEO-G0B1RE
+<pre>
+It is based on ARM CORTEX-M0+ microprocessor
+32 bit microcontroller
+64 pins package
+512kb flash memory
+LQFP package
+64MHZ frequency
+</pre>
